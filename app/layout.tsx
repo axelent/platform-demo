@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: "Platform Demo",
   description: "A simple demo using shadcn/ui and Next.js",
